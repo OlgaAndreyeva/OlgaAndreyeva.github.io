@@ -1,0 +1,16 @@
+[23-Jul-2021 17:15:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home2/olgaandr/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-Jul-2021 17:15:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home2/olgaandr/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-Jul-2021 17:15:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home2/olgaandr/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-Jul-2021 17:15:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home2/olgaandr/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-patterns/query-small-posts.php on line 9

@@ -1,0 +1,20 @@
+[23-Jul-2021 17:16:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home2/olgaandr/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-supports/border.php on line 170
+[23-Jul-2021 17:16:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home2/olgaandr/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-supports/duotone.php on line 426
+[23-Jul-2021 17:16:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/olgaandr/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-supports/elements.php on line 71
+[23-Jul-2021 17:17:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home2/olgaandr/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-supports/layout.php on line 99
+[23-Jul-2021 17:17:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home2/olgaandr/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-includes/block-supports/spacing.php on line 89

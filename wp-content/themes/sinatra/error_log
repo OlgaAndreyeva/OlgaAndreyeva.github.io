@@ -1,0 +1,32 @@
+[03-Nov-2021 16:59:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/archive.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/archive.php on line 14
+[03-Nov-2021 16:59:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/index.php on line 19
+[03-Nov-2021 16:59:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/404.php on line 14
+[03-Nov-2021 16:59:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home2/olgaandr/public_html/wp-content/themes/sinatra/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/header.php on line 14
+[05-Nov-2021 16:12:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/index.php on line 19
+[05-Nov-2021 16:12:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/archive.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/archive.php on line 14
+[05-Nov-2021 16:12:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/olgaandr/public_html/wp-content/themes/sinatra/404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/404.php on line 14
+[05-Nov-2021 16:12:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home2/olgaandr/public_html/wp-content/themes/sinatra/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/olgaandr/public_html/wp-content/themes/sinatra/header.php on line 14
