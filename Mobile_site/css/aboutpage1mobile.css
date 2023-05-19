@@ -1,0 +1,3219 @@
+/* Desktop CSS */
+@media screen and (min-width: 516px) {
+  .container-center-horizontal{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      pointer-events: none;
+      width: 100%;
+    }
+  .aboutpage1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    justify-content: flex-start;
+    min-height: 2479px;
+    overflow-x: hidden;
+    position: relative;
+    width: 1024px;
+  }
+
+  .aboutpage1 .overlap-group7-rRG00M {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 2098px;
+    position: relative;
+    width: 1024px;
+  }
+
+  .aboutpage1 .background-purple {
+    align-items: flex-start;
+    background-color: transparent;
+    background-image: url(../img/comic-page-rectangle-302DB920-9149-487E-B2AE-1B5175EE0C87.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 2098px;
+    justify-content: flex-start;
+    left: 0px;
+    min-width: 1024px;
+    position: absolute;
+    top: 0px;
+    width: auto;
+  }
+
+  .aboutpage1 .inner-background {
+    background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 2098px;
+    position: relative;
+    width: 1024px;
+  }
+
+  .aboutpage1 .logo {
+    background-color: transparent;
+    background-image: url(../img/comic-page-purple-CAD86BD1-7435-4D49-A8E3-5CF3B40AC12D@2x.png);
+    background-size: 100% 100%;
+    height: 108px;
+    left: 42px;
+    position: absolute;
+    top: 32px;
+    width: 244px;
+  }
+
+  .aboutpage1 .rectangle-BL9glZ {
+    background-color: var(--pearl-bush);
+    height: 1954px;
+    left: 42px;
+    position: absolute;
+    top: 144px;
+    width: 940px;
+  }
+
+  .aboutpage1 .twitter-BL9glZ {
+    background-color: transparent;
+    background-image: url(../img/about-page-3-path-36FACA80-892A-4172-9E52-4DF5928C70D3@2x.png);
+    background-size: 100% 100%;
+    height: 22px;
+    left: 267px;
+    position: absolute;
+    top: 618px;
+    width: 27px;
+  }
+
+  .aboutpage1 .oval-BL9glZ {
+    background-color: transparent;
+    height: 240px;
+    left: 112px;
+    position: absolute;
+    top: 310px;
+    width: 240px;
+  }
+
+  .aboutpage1 .olga-andreyeva-BL9glZ {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 422px;
+    letter-spacing: 0.00px;
+    line-height: 42px;
+    position: absolute;
+    text-align: left;
+    top: 256px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .im-an-independent-i-BL9glZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 422px;
+    letter-spacing: 0.00px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    top: 329px;
+    width: 500px;
+  }
+
+  .aboutpage1 .follow-me-on-social-BL9glZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 103px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    position: absolute;
+    text-align: left;
+    top: 568px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .facebook-BL9glZ {
+    background-color: transparent;
+    background-image: url(../img/about-page-1-path-EBE76F21-5839-49D2-BB00-33AB1EA92ABE@2x.png);
+    background-size: 100% 100%;
+    height: 26px;
+    left: 169px;
+    position: absolute;
+    top: 614px;
+    width: 26px;
+  }
+
+  .aboutpage1 .instagram-BL9glZ {
+    align-items: flex-end;
+    background-color: transparent;
+    background-image: url(../img/about-page-1-shape-E2F39CF6-CDFF-43A1-8922-32B5BF66BAD9@2x.png);
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    justify-content: flex-start;
+    left: 218px;
+    min-height: 26px;
+    padding: 5px;
+    position: absolute;
+    top: 614px;
+    width: 26px;
+  }
+
+  .aboutpage1 .oval-ZBwHkc {
+    background-color: var(--black);
+    border-radius: 2px;
+    flex-shrink: 1;
+    height: 2px;
+    margin-top: 0px;
+    position: relative;
+    width: 2px;
+  }
+
+  .aboutpage1 .shape-ZBwHkc {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 13px;
+    margin-right: 1px;
+    margin-top: 0px;
+    position: relative;
+    width: 13px;
+  }
+
+  .aboutpage1 .line-5-BL9glZ {
+    background-color: transparent;
+    height: 5px;
+    left: 100px;
+    position: absolute;
+    top: 597px;
+    width: 264px;
+  }
+
+  .aboutpage1 .faq-container {
+    background-color: var(--electric-violet);
+    height: 604px;
+    left: 42px;
+    position: absolute;
+    top: 744px;
+    width: 940px;
+  }
+
+  .faq-column-1 {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 206px;
+    justify-content: flex-start;
+    left: 94px;
+    min-width: 836px;
+    position: absolute;
+    top: 866px;
+    width: auto;
+  }
+
+  .aboutpage1 .overlap-group1-IT6IrA {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    position: relative;
+    width: 242px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-jO5Nxr {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-jO5Nxr {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 242px;
+  }
+
+  .aboutpage1 .copy-container-IT6IrA {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    margin-left: 56px;
+    position: relative;
+    width: 240px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-copy-hILUnS {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-copy-hILUnS {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 240px;
+  }
+
+  .aboutpage1 .copy-container-BfIAwr {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    margin-left: 56px;
+    position: relative;
+    width: 242px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-copy-2-uYpkNA {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-copy-2-uYpkNA {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 242px;
+  }
+
+  .aboutpage1 .faq-column-2 {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 206px;
+    justify-content: flex-start;
+    left: 94px;
+    min-width: 836px;
+    position: absolute;
+    top: 1104px;
+    width: auto;
+  }
+
+  .aboutpage1 .overlap-group4-a9xC2Z {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    position: relative;
+    width: 242px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-VGYjpZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-VGYjpZ {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 242px;
+  }
+
+  .aboutpage1 .copy-container-a9xC2Z {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    margin-left: 56px;
+    position: relative;
+    width: 240px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-copy-fDFg3r {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-copy-fDFg3r {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 240px;
+  }
+
+  .aboutpage1 .copy-container-wTymgD {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 206px;
+    margin-left: 56px;
+    position: relative;
+    width: 242px;
+  }
+
+  .aboutpage1 .lorem-ipsum-dolor-si-copy-2-Hx2oNv {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    position: absolute;
+    text-align: left;
+    top: 71px;
+    width: 240px;
+  }
+
+  .aboutpage1 .how-long-does-it-tak-copy-2-Hx2oNv {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 242px;
+  }
+
+  .aboutpage1 .faq-container-title {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 453px;
+    letter-spacing: 0.00px;
+    line-height: 53px;
+    position: absolute;
+    text-align: left;
+    top: 782px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .rectangle-LxmgkF {
+    background-color: var(--oxford-blue);
+    box-shadow: 0px 0px 4px #00000080;
+    height: 750px;
+    left: 42px;
+    position: absolute;
+    top: 1348px;
+    width: 940px;
+  }
+
+  .aboutpage1 .want-to-get-in-touch-BL9glZ {
+    background-color: transparent;
+    font-weight: 700;
+    height: auto;
+    left: 282px;
+    letter-spacing: 0.00px;
+    line-height: 53px;
+    position: absolute;
+    text-align: left;
+    top: 1386px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .rectangle-5tC9SJ {
+    background-color: var(--lynch);
+    height: 52px;
+    left: 122px;
+    position: absolute;
+    top: 1513px;
+    width: 780px;
+  }
+
+  .aboutpage1 .group-2-BL9glZ {
+    align-items: center;
+    background-color: var(--jaffa);
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: flex-end;
+    left: 442px;
+    min-width: 140px;
+    padding: 0 34px;
+    position: absolute;
+    top: 2017px;
+    width: auto;
+  }
+
+  .aboutpage1 .submit-oLud6u {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    min-height: 24px;
+    min-width: 69px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .rectangle-copy-BL9glZ {
+    background-color: var(--lynch);
+    height: 52px;
+    left: 122px;
+    position: absolute;
+    top: 1624px;
+    width: 780px;
+  }
+
+  .aboutpage1 .full-name-BL9glZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 122px;
+    letter-spacing: 0.00px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    top: 1476px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .message-container {
+    background-color: #717ba3;
+    height: 206px;
+    left: 122px;
+    position: absolute;
+    top: 1764px;
+    width: 780px;
+  }
+
+  .aboutpage1 .e-mail-BL9glZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 122px;
+    letter-spacing: 0.00px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    top: 1587px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .message-BL9glZ {
+    background-color: transparent;
+    font-weight: 500;
+    height: auto;
+    left: 122px;
+    letter-spacing: 0.00px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    top: 1727px;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .nav-links {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 26px;
+    justify-content: flex-start;
+    left: 498px;
+    min-width: 489px;
+    position: absolute;
+    top: 67px;
+    width: auto;
+  }
+
+  .aboutpage1 .state-neutral-eynUQx {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 26px;
+    justify-content: flex-end;
+    min-width: 69px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .text-rGhLyF {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 1.00px;
+    line-height: 27px;
+    min-height: 26px;
+    min-width: 72px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .state-neutral-copy-eynUQx {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 26px;
+    justify-content: flex-end;
+    margin-left: 26px;
+    min-width: 52px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .text-qlhSIq {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 1.00px;
+    line-height: 27px;
+    min-height: 26px;
+    min-width: 55px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .state-neutral-copy-2-eynUQx {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 26px;
+    justify-content: flex-end;
+    margin-left: 26px;
+    min-width: 63px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .text-McbAvv {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 1.00px;
+    line-height: 27px;
+    min-height: 26px;
+    min-width: 66px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .state-neutral-copy-3-eynUQx {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 26px;
+    justify-content: flex-end;
+    margin-left: 26px;
+    min-width: 130px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .text-Osc8Ek {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 1.00px;
+    line-height: 27px;
+    min-height: 26px;
+    min-width: 133px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .state-neutral-copy-4-eynUQx {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 26px;
+    justify-content: flex-end;
+    margin-left: 26px;
+    min-width: 71px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .text-kwcdma {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 1.00px;
+    line-height: 27px;
+    min-height: 26px;
+    min-width: 74px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+  }
+
+.footer-mobile{
+  display: none;
+}
+/* .footer-rRG00M */
+  .aboutpage1 .footer-desktop {
+    align-items: flex-end;
+    background-color: var(--oxford-blue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-top: 0px;
+    min-height: 381px;
+    padding: 22px 33px;
+    position: relative;
+    width: 1024px;
+  }
+
+  .aboutpage1 .flex-row-iz5opn {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 113px;
+    justify-content: flex-start;
+    margin-top: 21px;
+    min-width: 929px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .purple-copy-tzorY4 {
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 73px;
+    position: relative;
+    width: 165px;
+  }
+
+  .aboutpage1 .flex-col-tzorY4 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 62px;
+    min-height: 101px;
+    position: relative;
+    width: 702px;
+  }
+
+  .aboutpage1 .flex-row-GisPRN {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 24px;
+    justify-content: flex-start;
+    min-width: 693px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .home-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    min-height: 24px;
+    min-width: 62px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 62px;
+  }
+
+  .aboutpage1 .read-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    margin-left: 59px;
+    min-height: 24px;
+    min-width: 53px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 53px;
+  }
+
+  .aboutpage1 .lore-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    margin-left: 60px;
+    min-height: 24px;
+    min-width: 46px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 46px;
+  }
+
+  .aboutpage1 .store-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    margin-left: 64px;
+    min-height: 24px;
+    min-width: 55px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 55px;
+  }
+
+  .aboutpage1 .community-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    margin-left: 56px;
+    min-height: 24px;
+    min-width: 116px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 116px;
+  }
+
+  .aboutpage1 .about-3iOsJp {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 700;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    margin-left: 59px;
+    min-height: 24px;
+    min-width: 63px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 63px;
+  }
+
+  .aboutpage1 .flex-row-G4Nm71 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 63px;
+    justify-content: flex-start;
+    margin-top: 14px;
+    min-width: 484px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-0mwHV1 {
+    align-items: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    min-height: 63px;
+    position: relative;
+    width: 81px;
+  }
+
+  .aboutpage1 .characters-pjFq0d {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    min-height: 21px;
+    min-width: 81px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .settings-pjFq0d {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-right: 1.0px;
+    margin-top: 21px;
+    min-height: 21px;
+    min-width: 58px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-KndmPJ {
+    align-items: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 45px;
+    min-height: 63px;
+    position: relative;
+    width: 58px;
+  }
+
+  .aboutpage1 .books-LAvhZm {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: -0.40px;
+    line-height: 21px;
+    min-height: 21px;
+    min-width: 44px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .artwork-LAvhZm {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: -0.40px;
+    line-height: 21px;
+    margin-top: 21px;
+    min-height: 21px;
+    min-width: 58px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-RWywML {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 83px;
+    min-height: 63px;
+    position: relative;
+    width: 58px;
+  }
+
+  .aboutpage1 .fan-art-NoKONI {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    min-height: 21px;
+    min-width: 57px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .patreon-NoKONI {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-top: 21px;
+    min-height: 21px;
+    min-width: 58px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-GKhYBR {
+    align-items: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 78px;
+    min-height: 63px;
+    position: relative;
+    width: 81px;
+  }
+
+  .aboutpage1 .contact-us-50o7gC {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    min-height: 21px;
+    min-width: 81px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 81px;
+  }
+
+  .aboutpage1 .creator-50o7gC {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-left: 3.0px;
+    margin-top: 21px;
+    min-height: 21px;
+    min-width: 58px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-iz5opn {
+    align-items: flex-start;
+    align-self: center;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: 2.0px;
+    margin-top: 11px;
+    min-height: 192px;
+    position: relative;
+    width: 942px;
+  }
+
+  .aboutpage1 .flex-row-5ARdDB {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 72px;
+    justify-content: flex-start;
+    min-width: 933px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-col-XoFPkZ {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height: auto;
+    justify-content: flex-start;
+    min-height: 72px;
+    position: relative;
+    width: 382px;
+  }
+
+  .aboutpage1 .join-my-newsletter-t-7HPjwb {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 400;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 17px;
+    min-height: 28px;
+    min-width: 282px;
+    position: relative;
+    text-align: left;
+    width: 282px;
+  }
+
+  .aboutpage1 .group-container-7HPjwb {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 29px;
+    justify-content: flex-start;
+    margin-top: 15px;
+    min-width: 382px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .overlap-group-9BLUK6 {
+    align-items: center;
+    background-color: var(--gallery);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 29px;
+    justify-content: flex-start;
+    min-width: 282px;
+    padding: 0 9px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .email-address-x83flY {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 19px;
+    margin-left: 0px;
+    min-height: 19px;
+    min-width: 90px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .group-9BLUK6 {
+    align-items: center;
+    background-color: var(--jaffa);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 29px;
+    justify-content: flex-end;
+    margin-left: 15px;
+    min-width: 85px;
+    padding: 0 14px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .subscribe-v7sqtc {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 15px;
+    min-height: 15px;
+    min-width: 55px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .gallery-XoFPkZ {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-left: 94px;
+    margin-top: 10px;
+    min-height: 21px;
+    min-width: 58px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .merchadise-XoFPkZ {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: -0.40px;
+    line-height: 21px;
+    margin-left: 44px;
+    margin-top: 10px;
+    min-height: 21px;
+    min-width: 84px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .blog-XoFPkZ {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-left: 81px;
+    margin-top: 10px;
+    min-height: 21px;
+    min-width: 35px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .faq-XoFPkZ {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 21px;
+    margin-left: 109px;
+    margin-top: 10px;
+    min-height: 21px;
+    min-width: 46px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .flex-row-zoFpZv {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 20px;
+    justify-content: flex-start;
+    margin-right: 2px;
+    margin-top: 70px;
+    min-width: 59px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .facebook-sTIAEo {
+    background-color: transparent;
+    background-image: url(../img/about-page-1-path-2DD1F344-A1B4-44E6-8815-ED925D0BDD11@2x.png);
+    background-size: 100% 100%;
+    flex-shrink: 1;
+    height: 19px;
+    position: relative;
+    width: 19px;
+  }
+
+  .aboutpage1 .instagram-sTIAEo {
+    align-items: flex-start;
+    background-color: transparent;
+    background-image: url(../img/gallery-page--shape-731379D7-6D31-434C-AA03-3EEC16C014B7@2x.png);
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 20px;
+    justify-content: flex-end;
+    margin-left: 20px;
+    min-width: 20px;
+    padding: 4px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .shape-e9256z {
+    align-self: center;
+    background-color: transparent;
+    flex-shrink: 1;
+    height: 10px;
+    position: relative;
+    width: 10px;
+  }
+
+  .aboutpage1 .oval-e9256z {
+    background-color: var(--white);
+    border-radius: 1px;
+    flex-shrink: 1;
+    height: 1px;
+    margin-left: 0px;
+    position: relative;
+    width: 1px;
+  }
+
+  .aboutpage1 .flex-row-TjQIIs {
+    align-items: flex-start;
+    background-color: transparent;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    height: 20px;
+    justify-content: flex-start;
+    margin-top: 10px;
+    min-width: 942px;
+    position: relative;
+    width: auto;
+  }
+
+  .aboutpage1 .terms-conditions-MiTfAn {
+    align-self: flex-end;
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 19px;
+    min-height: 19px;
+    min-width: 124px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .privacy-policy-MiTfAn {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 19px;
+    margin-left: 36px;
+    min-height: 19px;
+    min-width: 90px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+
+  .aboutpage1 .x2021-olga-andreyev-MiTfAn {
+    background-color: transparent;
+    flex-shrink: 1;
+    font-weight: 500;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 19px;
+    margin-left: 395px;
+    min-height: 19px;
+    min-width: 297px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+  }
+}
+
+
+/* Mobile CSS */
+               @media screen and (max-width: 515px) {
+          body .container-center-horizontal{
+                justify-content: center;
+              }
+
+              .aboutpage1 {
+                background-color: var(--white);
+                height: 2010px;
+                position: relative;
+                width: auto;
+                width: 320px;
+                /* overflow-x: hidden; */
+              }
+
+              .aboutpage1 .overlap-group7-rRG00M {
+                align-self: flex-start;
+                background-color: transparent;
+                /* background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png); */
+                background-size: 100% 100%;
+                flex-shrink: 1;
+                height: 60px;
+                /* margin-left: 18px; */
+                /* margin-top: 0px; */
+                position: relative;
+                width: 135px;
+              }
+
+              .background-purple {
+                background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+                background-color: transparent;
+                width: 750px;
+                margin: auto;
+                margin: auto;
+                position: relative;
+              }
+
+              .aboutpage1 .inner-background {
+                background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 2775px;
+                position: relative;
+                width: auto;
+                left: 70px;
+              }
+
+              .aboutpage1 .logo {
+                background-color: transparent;
+                background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+                background-size: 100% 100%;
+                height: 173px;
+                left: 246px;
+                position: absolute;
+                top: 27px;
+                width: 335px;
+              }
+
+              .aboutpage1 .rectangle-BL9glZ {
+                background-color: var(--pearl-bush);
+                height: 1954px;
+                left: 27px;
+                position: absolute;
+                top: 240px;
+                width: 754px;
+                /* left: 106px; */
+              }
+
+              .aboutpage1 .twitter-BL9glZ {
+                background-color: transparent;
+                background-image: url(../img/about-page-3-path-36FACA80-892A-4172-9E52-4DF5928C70D3@2x.png);
+                background-size: 100% 100%;
+                height: 22px;
+                left: 449px;
+                position: absolute;
+                top: 830px;
+                width: 27px;
+              }
+
+              .aboutpage1 .oval-BL9glZ {
+                background-color: transparent;
+                height: 240px;
+                left: 284px;
+                position: absolute;
+                top: 360px;
+                width: 240px;
+              }
+
+              .aboutpage1 .olga-andreyeva-BL9glZ {
+                background-color: transparent;
+                font-weight: 700;
+                font-size: 50px;
+                height: auto;
+                left: 223px;
+                letter-spacing: 0.00px;
+                line-height: 42px;
+                position: absolute;
+                text-align: center;
+                top: 290px;
+                white-space: nowrap;
+                width: 100%;
+                /* background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 422px;
+                letter-spacing: 0.00px;
+                line-height: 42px;
+                position: absolute;
+                text-align: left;
+                top: 256px;
+                white-space: nowrap;
+                width: auto; */
+              }
+
+              .aboutpage1 .im-an-independent-i-BL9glZ {
+                background-color: transparent;
+                font-size: var(--font-size-xl);
+                font-weight: 700;
+                height: auto;
+                left: 114px;
+                letter-spacing: 0.00px;
+                line-height: 28px;
+                position: absolute;
+                text-align: justify;
+                top: 615px;
+                width: 600px;
+              }
+
+              .aboutpage1 .follow-me-on-social-BL9glZ {
+                background-color: transparent;
+                    font-weight: 700;
+                    height: auto;
+                    left: 311px;
+                    letter-spacing: 0.00px;
+                    line-height: 26px;
+                    position: absolute;
+                    text-align: left;
+                    top: 801px;
+                    white-space: nowrap;
+                    width: auto;
+              }
+
+              .aboutpage1 .facebook-BL9glZ {
+                background-color: transparent;
+                background-image: url(../img/about-page-1-path-EBE76F21-5839-49D2-BB00-33AB1EA92ABE@2x.png);
+                background-size: 100% 100%;
+                height: 26px;
+                left: 329px;
+                position: absolute;
+                top: 830px;
+                width: 26px;
+              }
+
+              .facebook-1xV9lr {
+              background-color: transparent;
+              flex-shrink: 1;
+              font-weight: 500;
+              height: auto;
+              letter-spacing: 0.00px;
+              line-height: 19px;
+              margin-left: 14px;
+              min-height: 19px;
+              min-width: 65px;
+              position: relative;
+              text-align: justify;
+              white-space: nowrap;
+              width: auto;
+          }
+
+              .aboutpage1 .instagram-BL9glZ {
+                align-items: flex-end;
+                background-color: transparent;
+                background-image: url(../img/about-page-1-shape-E2F39CF6-CDFF-43A1-8922-32B5BF66BAD9@2x.png);
+                background-size: 100% 100%;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                height: auto;
+                justify-content: flex-start;
+                left: 389px;
+                min-height: 26px;
+                padding: 5px;
+                position: absolute;
+                top: 830px;
+                width: 26px;
+              }
+
+              .aboutpage1 .oval-ZBwHkc {
+                background-color: var(--black);
+                border-radius: 2px;
+                flex-shrink: 1;
+                height: 2px;
+                margin-top: 0px;
+                position: relative;
+                width: 2px;
+              }
+
+              .aboutpage1 .shape-ZBwHkc {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 13px;
+                margin-right: 1px;
+                margin-top: 0px;
+                position: relative;
+                width: 13px;
+              }
+
+              .aboutpage1 .line-5-BL9glZ {
+                background-color: transparent;
+                height: 5px;
+                left: 308px;
+                position: absolute;
+                top: 820px;
+                width: 184px;
+              }
+
+              .aboutpage1 .faq-container {
+                background-color: var(--electric-violet);
+                height: 700px;
+                position: absolute;
+                top: 865px;
+                display: flex;
+                width: 754px;
+                left: 27px;
+              }
+
+              .aboutpage1 .overlap-group1-IT6IrA {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                position: relative;
+                width: 242px;
+              }
+
+               .faq-column-1 {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                height: 500px;
+                justify-content: flex-start;
+                left: 108px;
+                /* min-width: 836px; */
+                position: absolute;
+                top: 925px;
+                width: auto;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-jO5Nxr {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-jO5Nxr {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 242px;
+              }
+
+              .aboutpage1 .copy-container-IT6IrA {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                position: relative;
+                width: 240px;
+                margin-top: 102px;
+                margin-bottom: 91px;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-copy-hILUnS {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-copy-hILUnS {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 240px;
+              }
+
+              .aboutpage1 .copy-container-BfIAwr {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                position: relative;
+                width: 242px;
+                top: 17px;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-copy-2-uYpkNA {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-copy-2-uYpkNA {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 242px;
+              }
+
+              .aboutpage1 .faq-column-2 {
+                align-items: flex-end;
+                    background-color: transparent;
+                    box-sizing: border-box;
+                    display: flex;
+                    flex-direction: column;
+                    height: auto;
+                    justify-content: right;
+                    padding-right: 127px;
+                    min-width: 836px;
+                    position: absolute;
+                    top: 925px;
+                    width: 100%;
+              }
+
+              .aboutpage1 .overlap-group4-a9xC2Z {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                position: relative;
+                width: 242px;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-VGYjpZ {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-VGYjpZ {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 242px;
+              }
+
+              .aboutpage1 .copy-container-a9xC2Z {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                margin-left: 56px;
+                position: relative;
+                width: 240px;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-copy-fDFg3r {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-copy-fDFg3r {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 240px;
+              }
+
+              .aboutpage1 .copy-container-wTymgD {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 206px;
+                margin-left: 56px;
+                position: relative;
+                width: 242px;
+              }
+
+              .aboutpage1 .lorem-ipsum-dolor-si-copy-2-Hx2oNv {
+                background-color: transparent;
+                font-weight: 500;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                position: absolute;
+                text-align: left;
+                top: 71px;
+                width: 240px;
+              }
+
+              .aboutpage1 .how-long-does-it-tak-copy-2-Hx2oNv {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 0px;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                position: absolute;
+                text-align: left;
+                top: 0px;
+                width: 242px;
+              }
+
+              .aboutpage1 .faq-container-title {
+                background-color: transparent;
+                font-size: var(--font-size-xxxl);
+                font-weight: 700;
+                color: #f0f0f0;
+                height: auto;
+                left: 362px;
+                letter-spacing: 0.00px;
+                line-height: 53px;
+                position: absolute;
+                text-align: left;
+                top: 880px;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .rectangle-LxmgkF {
+                background-color: var(--oxford-blue);
+                box-shadow: 0px 0px 4px #00000080;
+                height: 750px;
+                position: absolute;
+                top: 1552px;
+                width: 755px;
+                left: 26px;
+              }
+
+              .aboutpage1 .want-to-get-in-touch-BL9glZ {
+                background-color: transparent;
+                font-size: var(--font-size-xxxl);
+                font-weight: 700;
+                height: auto;
+                left: 252px;
+                letter-spacing: 0.00px;
+                line-height: 53px;
+                position: absolute;
+                text-align: left;
+                top: 1568px;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .rectangle-5tC9SJ {
+                background-color: #717ba2;
+                height: 40px;
+                left: 138px;
+                position: absolute;
+                top: 1649px;
+                width: 558px;
+              }
+
+              .aboutpage1 .group-2-BL9glZ {
+                align-items: center;
+                background-color: var(--jaffa);
+                border-radius: 4px;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                height: 50px;
+                justify-content: flex-end;
+                left: 263px;
+                min-width: 140px;
+                padding: 0 34px;
+                position: absolute;
+                top: 2017px;
+                width: 300px;
+              }
+
+              .aboutpage1 .submit-oLud6u {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                left: -77px;
+                line-height: 25px;
+                min-height: 24px;
+                min-width: 69px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .rectangle-copy-BL9glZ {
+                background-color: #717ba2;
+                height: 40px;
+                left: 138px;
+                position: absolute;
+                top: 1713px;
+                width: 559px;
+              }
+
+              .aboutpage1 .full-name-BL9glZ {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 138px;
+                letter-spacing: 0.00px;
+                line-height: 28px;
+                position: absolute;
+                text-align: left;
+                top: 1626px;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .message-container {
+                background-color: #717ba3;
+                height: 206px;
+                left: 138px;
+                position: absolute;
+                top: 1782px;
+                width: 559px;
+              }
+
+              .aboutpage1 .e-mail-BL9glZ {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 138px;
+                letter-spacing: 0.00px;
+                line-height: 28px;
+                position: absolute;
+                text-align: left;
+                top: 1692px;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .message-BL9glZ {
+                background-color: transparent;
+                font-weight: 700;
+                height: auto;
+                left: 138px;
+                letter-spacing: 0.00px;
+                line-height: 28px;
+                position: absolute;
+                text-align: left;
+                top: 1758px;
+                white-space: nowrap;
+                width: auto;
+              }
+
+             .aboutpage1 .nav-links {
+              display:none;
+              }
+
+              .aboutpage1 .state-neutral-eynUQx {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 26px;
+                justify-content: flex-end;
+                min-width: 69px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .text-rGhLyF {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 1.00px;
+                line-height: 27px;
+                min-height: 26px;
+                min-width: 72px;
+                position: relative;
+                text-align: center;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .state-neutral-copy-eynUQx {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 26px;
+                justify-content: flex-end;
+                margin-left: 26px;
+                min-width: 52px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .text-qlhSIq {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 1.00px;
+                line-height: 27px;
+                min-height: 26px;
+                min-width: 55px;
+                position: relative;
+                text-align: center;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .state-neutral-copy-2-eynUQx {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 26px;
+                justify-content: flex-end;
+                margin-left: 26px;
+                min-width: 63px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .text-McbAvv {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 1.00px;
+                line-height: 27px;
+                min-height: 26px;
+                min-width: 66px;
+                position: relative;
+                text-align: center;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .state-neutral-copy-3-eynUQx {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 26px;
+                justify-content: flex-end;
+                margin-left: 26px;
+                min-width: 130px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .text-Osc8Ek {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 1.00px;
+                line-height: 27px;
+                min-height: 26px;
+                min-width: 133px;
+                position: relative;
+                text-align: center;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .state-neutral-copy-4-eynUQx {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 26px;
+                justify-content: flex-end;
+                margin-left: 26px;
+                min-width: 71px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .text-kwcdma {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 1.00px;
+                line-height: 27px;
+                min-height: 26px;
+                min-width: 74px;
+                position: relative;
+                text-align: center;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              /* Mobile footer & footer divs*/
+               .footer-mobile {
+                align-items: center;
+                background-color: var(--oxford-blue);
+                display: flex;
+                flex-direction: column;
+                height: auto;
+                justify-content: flex-start;
+                padding: 31px 0;
+                position: absolute;
+                top: 2104px;
+                width: 755px;
+                left: 26px;
+              }
+
+              /* Desktop footer */
+              .footer-desktop{
+                display: none;
+              }
+
+            .futurastd-book-normal-white-14px {
+              color: var(--white);
+              font-family: var(--font-family-futurastd-book);
+              font-size: var(--font-size-l);
+              font-style: normal;
+              font-weight: 400;
+              }
+
+              /* .logo-gWO6r4 {
+                background-color: transparent;
+                background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+                background-size: 100% 100%;
+                flex-shrink: 1;
+                height: 60px;
+                margin-left: 2.5px;
+                margin-top: 0px;
+                position: relative;
+                width: 135px;
+              } */
+
+              .join-my-newsletter-t-QG9zAD-mobile {
+                align-self: center;
+                width: auto;
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 400;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 17px;
+                margin-right: 1px;
+                margin-top: 20px;
+                min-height: 34px;
+                min-width: 285px;
+                position: relative;
+                text-align: justify;
+          }
+
+          .overlap-group-AENmzl {
+            align-items: flex-end;
+                align-self: center;
+                background-color: var(--gallery);
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 30px;
+                justify-content: flex-start;
+                margin-right: 1px;
+                margin-top: 18px;
+                min-width: 285px;
+                padding: 5px 13px;
+                position: relative;
+                width: auto;
+                left: 29px;
+          }
+
+          .line-copy-PwNsYk{
+            width: 97%;
+          }
+          .line-copy-2-PwNsYk{
+            width: 97%;
+          }
+
+          .line-copy-5-PwNsYk{
+            width: 97%;
+          }
+
+          .overlap-group1-PwNsYk {
+            align-items: center;
+                align-self: center;
+                background-color: var(--jaffa);
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 25px;
+                justify-content: flex-end;
+                margin-right: 1px;
+                margin-top: 0px;
+                min-width: 285px;
+                padding: 0 111px;
+                position: relative;
+                width: auto;
+                left: 29px;
+          }
+
+          .aboutpage1 .home-16xCyd {
+              align-self: flex-start;
+              background-color: transparent;
+              flex-shrink: 1;
+              font-weight: 500;
+              height: auto;
+              letter-spacing: 0.00px;
+              line-height: 19px;
+              margin-left: 17px;
+              margin-top: 35px;
+              min-height: 19px;
+              min-width: 40px;
+              position: relative;
+              text-align: justify;
+              white-space: nowrap;
+              width: auto;
+          }
+
+          .line-PwNsYk{
+            align-self: flex-end;
+            background-color: transparent;
+            flex-shrink: 1;
+            height: 2px;
+            margin-top: 8px;
+            position: relative;
+            width: 288px;
+          }
+
+          .read-16xCyd {
+              align-self: flex-start;
+              background-color: transparent;
+              flex-shrink: 1;
+              font-weight: 500;
+              height: auto;
+              letter-spacing: 0.00px;
+              line-height: 19px;
+              margin-left: 17px;
+              margin-top: 8px;
+              min-height: 19px;
+              min-width: 35px;
+              position: relative;
+              text-align: justify;
+              white-space: nowrap;
+              width: auto;
+          }
+
+          .lore-16xCyd{
+            align-self: flex-start;
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 19px;
+                margin-left: 17px;
+                margin-top: 8px;
+                min-height: 19px;
+                min-width: 35px;
+                position: relative;
+                text-align: justify;
+                white-space: nowrap;
+                width: auto;
+          }
+
+          .store-16xCyd{
+            background-color: transparent;
+            flex-shrink: 1;
+            font-weight: 500;
+            height: auto;
+            letter-spacing: 0.00px;
+            line-height: 19px;
+            margin-left: 17px;
+            margin-top: 8px;
+            min-height: 19px;
+            min-width: 36px;
+            position: relative;
+            text-align: justify;
+            white-space: nowrap;
+            width: auto;
+          }
+
+          .community-16xCyd{
+            background-color: transparent;
+            flex-shrink: 1;
+            font-weight: 500;
+            height: auto;
+            letter-spacing: 0.00px;
+            line-height: 19px;
+            margin-left: 17px;
+            margin-top: 8px;
+            min-height: 19px;
+            min-width: 36px;
+            position: relative;
+            text-align: justify;
+            white-space: nowrap;
+            width: auto;
+          }
+
+          .about-16xCyd{
+            background-color: transparent;
+            flex-shrink: 1;
+            font-weight: 500;
+            height: auto;
+            letter-spacing: 0.00px;
+            line-height: 19px;
+            margin-left: 17px;
+            margin-top: 8px;
+            min-height: 19px;
+            min-width: 36px;
+            position: relative;
+            text-align: justify;
+            white-space: nowrap;
+            width: auto;
+          }
+
+
+          .flex-row-zxCNqx-mobile {
+            background-color: transparent;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 1;
+            height: auto;
+            justify-content: flex-start;
+            margin-right: 1px;
+            margin-top: 8px;
+            min-width: 285px;
+            position: relative;
+            width: auto;
+          }
+
+              /* mobile footer end */
+
+
+              .aboutpage1 .flex-row-iz5opn {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 113px;
+                justify-content: flex-start;
+                margin-top: 21px;
+                min-width: 929px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .purple-copy-tzorY4 {
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 73px;
+                position: relative;
+                width: 165px;
+              }
+
+              .aboutpage1 .flex-col-tzorY4 {
+                align-items: flex-start;
+                align-self: flex-end;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                margin-left: 62px;
+                min-height: 101px;
+                position: relative;
+                width: 702px;
+              }
+
+              .aboutpage1 .flex-row-GisPRN {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 24px;
+                justify-content: flex-start;
+                min-width: 693px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .home-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                min-height: 24px;
+                min-width: 62px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 62px;
+              }
+
+              .aboutpage1 .read-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                margin-left: 59px;
+                min-height: 24px;
+                min-width: 53px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 53px;
+              }
+
+              .aboutpage1 .lore-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                margin-left: 60px;
+                min-height: 24px;
+                min-width: 46px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 46px;
+              }
+
+              .aboutpage1 .store-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                margin-left: 64px;
+                min-height: 24px;
+                min-width: 55px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 55px;
+              }
+
+              .aboutpage1 .community-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                margin-left: 56px;
+                min-height: 24px;
+                min-width: 116px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 116px;
+              }
+
+              .aboutpage1 .about-3iOsJp {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 700;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 25px;
+                margin-left: 59px;
+                min-height: 24px;
+                min-width: 63px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 63px;
+              }
+
+              .aboutpage1 .flex-row-G4Nm71 {
+                align-items: flex-start;
+                align-self: flex-end;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 63px;
+                justify-content: flex-start;
+                margin-top: 14px;
+                min-width: 484px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-0mwHV1 {
+                align-items: center;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                min-height: 63px;
+                position: relative;
+                width: 81px;
+              }
+
+              .aboutpage1 .characters-pjFq0d {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                min-height: 21px;
+                min-width: 81px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .settings-pjFq0d {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-right: 1.0px;
+                margin-top: 21px;
+                min-height: 21px;
+                min-width: 58px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-KndmPJ {
+                align-items: center;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                margin-left: 45px;
+                min-height: 63px;
+                position: relative;
+                width: 58px;
+              }
+
+              .aboutpage1 .books-LAvhZm {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: -0.40px;
+                line-height: 21px;
+                min-height: 21px;
+                min-width: 44px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .artwork-LAvhZm {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: -0.40px;
+                line-height: 21px;
+                margin-top: 21px;
+                min-height: 21px;
+                min-width: 58px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-RWywML {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                margin-left: 83px;
+                min-height: 63px;
+                position: relative;
+                width: 58px;
+              }
+
+              .aboutpage1 .fan-art-NoKONI {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                min-height: 21px;
+                min-width: 57px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .patreon-NoKONI {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-top: 21px;
+                min-height: 21px;
+                min-width: 58px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-GKhYBR {
+                align-items: center;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                margin-left: 78px;
+                min-height: 63px;
+                position: relative;
+                width: 81px;
+              }
+
+              .aboutpage1 .contact-us-50o7gC {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                min-height: 21px;
+                min-width: 81px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: 81px;
+              }
+
+              .aboutpage1 .creator-50o7gC {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-left: 3.0px;
+                margin-top: 21px;
+                min-height: 21px;
+                min-width: 58px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-iz5opn {
+                align-items: flex-start;
+                align-self: center;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                margin-left: 2.0px;
+                margin-top: 11px;
+                min-height: 192px;
+                position: relative;
+                width: 942px;
+              }
+
+              .aboutpage1 .flex-row-5ARdDB {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 72px;
+                justify-content: flex-start;
+                min-width: 933px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-col-XoFPkZ {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 1;
+                height: auto;
+                justify-content: flex-start;
+                min-height: 72px;
+                position: relative;
+                width: 382px;
+              }
+
+              .aboutpage1 .join-my-newsletter-t-7HPjwb {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 400;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 17px;
+                min-height: 28px;
+                min-width: 282px;
+                position: relative;
+                text-align: left;
+                width: 282px;
+              }
+
+              .aboutpage1 .group-container-7HPjwb {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 29px;
+                justify-content: flex-start;
+                margin-top: 15px;
+                min-width: 382px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .overlap-group-9BLUK6 {
+                align-items: center;
+                background-color: var(--gallery);
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 29px;
+                justify-content: flex-start;
+                min-width: 282px;
+                padding: 0 9px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .email-address-x83flY {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                left: 260px;
+                letter-spacing: 0.00px;
+                line-height: 19px;
+                margin-left: 0px;
+                min-height: 19px;
+                min-width: 90px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .group-9BLUK6 {
+                align-items: center;
+                background-color: var(--jaffa);
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 29px;
+                justify-content: flex-end;
+                margin-left: 15px;
+                min-width: 85px;
+                padding: 0 14px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .subscribe-v7sqtc {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 15px;
+                min-height: 15px;
+                min-width: 55px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .gallery-XoFPkZ {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-left: 94px;
+                margin-top: 10px;
+                min-height: 21px;
+                min-width: 58px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .merchadise-XoFPkZ {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: -0.40px;
+                line-height: 21px;
+                margin-left: 44px;
+                margin-top: 10px;
+                min-height: 21px;
+                min-width: 84px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .blog-XoFPkZ {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-left: 81px;
+                margin-top: 10px;
+                min-height: 21px;
+                min-width: 35px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .faq-XoFPkZ {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 21px;
+                margin-left: 109px;
+                margin-top: 10px;
+                min-height: 21px;
+                min-width: 46px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .flex-row-zoFpZv {
+                align-items: flex-start;
+                align-self: flex-end;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 20px;
+                justify-content: flex-start;
+                margin-right: 2px;
+                margin-top: 70px;
+                min-width: 59px;
+                position: relative;
+                width: auto;
+              }
+
+              .facebook-container-PwNsYk {
+                  align-items: flex-start;
+                  align-self: flex-start;
+                  background-color: transparent;
+                  box-sizing: border-box;
+                  display: flex;
+                  flex-direction: row;
+                  flex-shrink: 1;
+                  height: 20px;
+                  justify-content: flex-start;
+                  margin-left: 17px;
+                  margin-top: 28px;
+                  min-width: 99px;
+                  position: relative;
+                  width: auto;
+                  padding-left: 0px;
+
+              }
+
+              .aboutpage1 .facebook-N3Aye5 {
+                background-color: transparent;
+                background-image: url(../img/about-page-1-path-2DD1F344-A1B4-44E6-8815-ED925D0BDD11@2x.png);
+                background-size: 100% 100%;
+                flex-shrink: 1;
+                height: 19px;
+                position: relative;
+                width: 19px;
+              }
+
+
+              .instagram-container-mzNTGO {
+              align-items: flex-end;
+              background-color: transparent;
+              box-sizing: border-box;
+              display: flex;
+              flex-direction: row;
+              flex-shrink: 1;
+              height: 20px;
+              justify-content: flex-start;
+              margin-left: 1.5px;
+              margin-top: 23px;
+              min-width: 99px;
+              position: relative;
+              width: auto;
+              padding-left: 10px;
+            }
+
+            .instagram-nqOl8n {
+              align-items: flex-start;
+              background-color: transparent;
+              background-image: url(../img/lore-page-mobile-shape-DBC0EE37-B1C2-4711-AB27-5FBF42870FB7@2x.png);
+              background-size: 100% 100%;
+              box-sizing: border-box;
+              display: flex;
+              flex-direction: row;
+              flex-shrink: 1;
+              height: 20px;
+              justify-content: flex-end;
+              min-width: 20px;
+              padding: 4px;
+              position: relative;
+              width: auto;
+          }
+
+          .shape-gXN5by {
+              align-self: center;
+              background-color: transparent;
+              flex-shrink: 1;
+              height: 10px;
+              position: relative;
+              width: 10px;
+          }
+
+          .oval-gXN5by {
+              background-color: var(--white);
+              border-radius: 1px;
+              flex-shrink: 1;
+              height: 1px;
+              margin-left: 0px;
+              position: relative;
+              width: 1px;
+          }
+
+          .instagram-xzFYrb {
+              background-color: transparent;
+              flex-shrink: 1;
+              font-weight: 500;
+              height: auto;
+              letter-spacing: 0.00px;
+              line-height: 19px;
+              margin-left: 14px;
+              min-height: 19px;
+              min-width: 65px;
+              position: relative;
+              text-align: justify;
+              white-space: nowrap;
+              width: auto;
+          }
+
+          .flex-row-C4pJrh{
+            background-color: transparent;
+            flex-shrink: 1;
+            font-weight: 500;
+            height: auto;
+            letter-spacing: 0.00px;
+            line-height: 23px;
+            margin-left: 1.5px;
+            margin-top: 37px;
+            min-height: 14px;
+            min-width: 236px;
+            position: relative;
+            text-align: left;
+            white-space: nowrap;
+            width: auto;
+          }
+
+              /* .aboutpage1 .shape-e9256z {
+                align-self: center;
+                background-color: transparent;
+                flex-shrink: 1;
+                height: 10px;
+                position: relative;
+                width: 10px;
+              }
+
+              .aboutpage1 .oval-e9256z {
+                background-color: var(--white);
+                border-radius: 1px;
+                flex-shrink: 1;
+                height: 1px;
+                margin-left: 0px;
+                position: relative;
+                width: 1px;
+              } */
+
+
+              .aboutpage1 .flex-row-TjQIIs {
+                align-items: flex-start;
+                background-color: transparent;
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                flex-shrink: 1;
+                height: 20px;
+                justify-content: flex-start;
+                margin-top: 10px;
+                min-width: 942px;
+                position: relative;
+                width: auto;
+              }
+
+              .aboutpage1 .terms-conditions-MiTfAn {
+                align-self: flex-end;
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 19px;
+                min-height: 19px;
+                min-width: 124px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .privacy-policy-MiTfAn {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 19px;
+                margin-left: 36px;
+                min-height: 19px;
+                min-width: 90px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+
+              .aboutpage1 .x2021-olga-andreyev-MiTfAn {
+                background-color: transparent;
+                flex-shrink: 1;
+                font-weight: 500;
+                height: auto;
+                letter-spacing: 0.00px;
+                line-height: 19px;
+                margin-left: 395px;
+                min-height: 19px;
+                min-width: 297px;
+                position: relative;
+                text-align: left;
+                white-space: nowrap;
+                width: auto;
+              }
+          }

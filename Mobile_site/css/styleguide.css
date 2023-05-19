@@ -1,0 +1,371 @@
+@media (max-width: 515px) {
+        :root {
+          --aqua-pearl: #77bfda;
+          --black: #000000;
+          --black-2: #00000066;
+          --chicago: #5c5b5b7f;
+          --electric-violet: #8a01e8;
+          --gallery: #f0f0f0;
+          --iron: #d7d7d7;
+          --jaffa: #dd8237;
+          --mountain-mist: #969696;
+          --oxford-blue: #383e56;
+          --pearl-bush: #e5ded4;
+          --silver-chalice: #b1aeae;
+          --white: #ffffff;
+
+          --font-size-l: 16px;
+          --font-size-m: 14px;
+          --font-size-s: 12px;
+          --font-size-xl: 18px;
+          --font-size-xs: 11px;
+          --font-size-xxl: 21px;
+          --font-size-xxxl: 32px;
+
+          --font-family-futura-bold: "Futura-Bold", Helvetica;
+          --font-family-futura-medium: "Futura-Medium", Helvetica;
+          --font-family-futurahandwritten: "FuturaHandwritten", Helvetica;
+          --font-family-futuranowheadline-bd: "FuturaNowHeadline-Bd", Helvetica;
+          --font-family-futurastd-book: "FuturaStd-Book", Helvetica;
+          --font-family-helvetica: "Helvetica", Helvetica;
+          --font-family-helveticaneue: "HelveticaNeue", Helvetica;
+          --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+        }
+        .learn-more-about-the-style {
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-xl);
+        }
+
+        .text-14--left {
+          font-family: var(--font-family-helveticaneue);
+          font-size: var(--font-size-m);
+          letter-spacing: 0px;
+        }
+
+        .h1---mobile--left {
+          font-family: var(--font-family-helveticaneue-bold);
+          font-size: var(--font-size-xxxl);
+          letter-spacing: -0.4px;
+        }
+
+        .futura-normal-white-14px {
+          color: var(--white);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-m);
+        }
+
+        .futura-normal-black-14px {
+          color: var(--black);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-m);
+        }
+
+        .futura-normal-white-11px {
+          color: var(--white);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-xs);
+        }
+
+        .futura-normal-black-16px {
+          color: var(--black);
+          font-family: var(--font-family-futura-bold);
+          font-size: var(--font-size-l);
+        }
+
+        .futura-normal-white-18px {
+          color: var(--white);
+          font-family: var(--font-family-futura-bold);
+          font-size: var(--font-size-xl);
+        }
+
+        .futura-normal-black-18px {
+          color: var(--black);
+          font-family: var(--font-family-futura-bold);
+          font-size: var(--font-size-xl);
+        }
+
+        .futurastd-book-normal-white-14px {
+          color: var(--white);
+          font-family: var(--font-family-futurastd-book);
+          font-size: var(--font-size-m);
+          font-style: normal;
+          font-weight: 400;
+        }
+
+        .futura-normal-silver-chalice-14px {
+          color: var(--silver-chalice);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-m);
+        }
+
+        .futura-normal-black-11px {
+          color: var(--black);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-xs);
+        }
+
+        .futura-normal-white-16px {
+          color: var(--white);
+          font-family: var(--font-family-futura-medium);
+          font-size: var(--font-size-l);
+        }
+
+        .futuranowheadline-bd-bold-white-21px {
+          color: var(--white);
+          font-family: var(--font-family-futuranowheadline-bd);
+          font-size: var(--font-size-xxl);
+          font-style: normal;
+          font-weight: 700;
+        }
+
+        .futurahandwritten-medium-black-12px {
+          color: var(--black);
+          font-family: var(--font-family-futurahandwritten);
+          font-size: var(--font-size-s);
+          font-style: normal;
+          font-weight: 500;
+        }
+}
+
+
+@media (min-width: 516px) {
+  :root {
+    --aqua-pearl: #77bfda;
+    --aqua-pearl-2: #7abedb;
+    --black: #000000;
+    --black-2: #00000066;
+    --chicago: #5c5b5b7f;
+    --dove-gray: #6a6a6a;
+    --electric-violet: #8a01e8;
+    --gallery: #f0f0f0;
+    --granite-gray: #696969;
+    --iron: #d7d7d7;
+    --jaffa: #dd8237;
+    --lynch: #717ba2;
+    --mountain-mist: #969696;
+    --oxford-blue: #383e56;
+    --pearl-bush: #e5ded4;
+    --romance: #fdfdfd;
+    --silver-chalice: #b0adad;
+    --tuscany: #bd6d2b;
+    --white: #ffffff;
+
+    --font-size-l: 20px;
+    --font-size-m: 18px;
+    --font-size-s: 16px;
+    --font-size-xl: 21px;
+    --font-size-xs: 14px;
+    --font-size-xxl: 36px;
+    --font-size-xxs: 12px;
+
+    --font-family-futura-bold: "Futura-Bold", Helvetica;
+    --font-family-futura-condensedmedium: "Futura-CondensedMedium", Helvetica;
+    --font-family-futura-medium: "Futura-Medium", Helvetica;
+    --font-family-futura-mediumitalic: "Futura-MediumItalic", Helvetica;
+    --font-family-futurahandwritten: "FuturaHandwritten", Helvetica;
+    --font-family-futuranowheadline-bd: "FuturaNowHeadline-Bd", Helvetica;
+    --font-family-futurastd-book: "FuturaStd-Book", Helvetica;
+    --font-family-helvetica: "Helvetica", Helvetica;
+    --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
+    --font-family-helveticaneue-medium: "HelveticaNeue-Medium", Helvetica;
+  }
+
+  p.for-all-returning-re-gWO6r4{
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-m);
+  }
+
+  p.explore-the-world-of-gWO6r4.futura-normal-black-14px{
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-m);
+  }
+
+  .explore-the-lore-VNYbcP.futura-normal-black-11px{
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+  }
+
+  .explore-the-lore-IHPh5x.futura-normal-black-11px{
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+  }
+
+  .learn-more-about-the-style {
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-m);
+  }
+
+  .futura-normal-romance-16px {
+    color: var(--romance);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+  }
+
+  .futura-normal-white-18px {
+    color: var(--white);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-m);
+  }
+
+  .futura-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+  }
+
+  .futura-normal-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-l);
+  }
+
+  .futura-normal-romance-14px {
+    color: var(--romance);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xs);
+  }
+
+  .futura-normal-black-14px {
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xs);
+  }
+
+  .futura-normal-black-18px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-m);
+  }
+
+  .futurastd-book-normal-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-futurastd-book);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .futura-normal-silver-chalice-14px {
+    color: var(--silver-chalice);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xs);
+  }
+
+  .futura-normal-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xxs);
+  }
+
+  .futura-normal-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xs);
+  }
+
+  .futura-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-s);
+  }
+
+  .futura-normal-jaffa-20px {
+    color: var(--jaffa);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-l);
+  }
+
+  .futura-normal-black-36px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-xxl);
+  }
+
+  .futura-normal-black-14px-2 {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: var(--font-size-xs);
+  }
+
+  .futura-normal-white-40px {
+    color: var(--white);
+    font-family: var(--font-family-futura-bold);
+    font-size: 40px;
+  }
+
+  .futura-normal-white-21px {
+    color: var(--white);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xl);
+  }
+
+  .futura-normal-black-32px {
+    color: var(--black);
+    font-family: var(--font-family-futura-bold);
+    font-size: 32px;
+  }
+
+  .futura-normal-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xxs);
+  }
+
+  .futura-normal-granite-gray-12px {
+    color: var(--granite-gray);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xxs);
+  }
+
+  .futurahandwritten-medium-black-21px {
+    color: var(--black);
+    font-family: var(--font-family-futurahandwritten);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  .helveticaneue-normal-black-21px {
+    color: var(--black);
+    font-family: var(--font-family-helveticaneue-medium);
+    font-size: var(--font-size-xl);
+  }
+
+  .futura-normal-white-30px {
+    color: var(--white);
+    font-family: var(--font-family-futura-medium);
+    font-size: 30px;
+  }
+
+  .futurahandwritten-medium-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-futurahandwritten);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  .futurahandwritten-medium-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-futurahandwritten);
+    font-size: var(--font-size-xxs);
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  .futura-normal-dove-gray-12px {
+    color: var(--dove-gray);
+    font-family: var(--font-family-futura-medium);
+    font-size: var(--font-size-xxs);
+  }
+
+  .border-1px-black {
+    border: 1px solid var(--black);
+  }
+
+  .border-1px-mountain-mist {
+    border: 1px solid var(--mountain-mist);
+  }
+}

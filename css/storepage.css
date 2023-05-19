@@ -1,0 +1,3064 @@
+/* screen - storepage */
+
+.storepage {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2656px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.storepage .overlap-group4-iEG1w8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2275px;
+  position: relative;
+  width: 1024px;
+}
+
+.storepage .background-nNlSqb {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/comic-page-rectangle-302DB920-9149-487E-B2AE-1B5175EE0C87.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 2275px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1024px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.storepage .rectangle-QWohOv {
+  background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2275px;
+  position: relative;
+  width: 1024px;
+}
+
+.storepage .logo-copy-6-nNlSqb {
+  background-color: transparent;
+  background-image: url(../img/comic-page-purple-CAD86BD1-7435-4D49-A8E3-5CF3B40AC12D@2x.png);
+  background-size: 100% 100%;
+  height: 108px;
+  left: 42px;
+  position: absolute;
+  top: 32px;
+  width: 244px;
+}
+
+.storepage .rectangle-nNlSqb {
+  background-color: var(--pearl-bush);
+  height: 2129px;
+  left: 42px;
+  position: absolute;
+  top: 146px;
+  width: 940px;
+}
+
+.storepage .group-3-nNlSqb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 122px;
+  min-height: 322px;
+  position: absolute;
+  top: 1816px;
+  width: 780px;
+}
+
+.storepage .browse-by-category-9VBe7P {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  margin-bottom: -1px;
+  min-height: 46px;
+  min-width: 394px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .overlap-group-container-9VBe7P {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 225px;
+  justify-content: flex-start;
+  margin-top: 51px;
+  min-width: 780px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .overlap-group-i6rVUI {
+  background-color: transparent;
+  background-image: url(../img/store-page--rectangle-ACFA7EB0-419D-4005-8C93-984C26B31191.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-shrink: 1;
+  height: 225px;
+  position: relative;
+  width: 234px;
+}
+
+.storepage .rectangle-a0PgJi {
+  background-color: #00000066;
+  height: 225px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 234px;
+}
+
+.storepage .books-a0PgJi {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .overlap-group1-i6rVUI {
+  background-color: transparent;
+  background-image: url(../img/store-page--rectangle-copy-5-AAAD1C23-4466-4C54-8C92-C8B55B9969C8.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-shrink: 1;
+  height: 225px;
+  margin-left: 39px;
+  position: relative;
+  width: 234px;
+}
+
+.storepage .rectangle-copy-7-p81y23 {
+  background-color: #00000066;
+  height: 225px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 234px;
+}
+
+.storepage .artwork-p81y23 {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .overlap-group2-i6rVUI {
+  background-color: transparent;
+  background-image: url(../img/store-page--rectangle-copy-6-FEF258F8-DD54-410B-8A9B-418722FB7A9C.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-shrink: 1;
+  height: 225px;
+  margin-left: 39px;
+  position: relative;
+  width: 234px;
+}
+
+.storepage .rectangle-copy-8-FvxWRU {
+  background-color: #00000067;
+  height: 225px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 234px;
+}
+
+.storepage .merch-FvxWRU {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .group-3-eZ1OCR {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 122px;
+  min-height: 1472px;
+  position: absolute;
+  top: 268px;
+  width: 780px;
+}
+
+.storepage .group-hLxedj {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 311px;
+  position: relative;
+  width: 780px;
+}
+
+.storepage .featured-jND4ZW {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  margin-bottom: -1px;
+  min-height: 46px;
+  min-width: 174px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-jND4ZW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 215px;
+  justify-content: flex-start;
+  margin-top: 50px;
+  min-width: 780px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-310oor {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-2U9P1L {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-2U9P1L {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-Doo6sL {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-Doo6sL {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-310oor {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-Y6246x {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-Y6246x {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-JCdk3y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-JCdk3y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-KyFx4E {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-2-iyQFcO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-2-iyQFcO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-6dcFdk {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-6dcFdk {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-XxzQfQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-3-23Oza6 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-3-23Oza6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-Pa8iPK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-Pa8iPK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-hNOxTM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-4-HIMD2f {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-4-HIMD2f {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-xy4Gde {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-xy4Gde {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .group-copy-hLxedj {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 311px;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-width: 780px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-rt2ogO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 311px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .books-OiOsdK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  margin-bottom: -1px;
+  min-height: 46px;
+  min-width: 121px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .rectangle-OiOsdK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  margin-top: 50px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-OiOsdK {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-3vTh9z {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-3vTh9z {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-rt2ogO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-zbD6Oz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-zbD6Oz {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-RLDxi9 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-RLDxi9 {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-start;
+  margin-top: 1px;
+  min-width: 135px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .x1999-CYaftK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 50px;
+  position: relative;
+  text-align: left;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x1199-CYaftK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  margin-left: 30px;
+  min-height: 23px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-1B9RK0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-2-gJBDxz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-2-gJBDxz {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-fzH34p {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-fzH34p {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-60W76t {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-3-xuCofX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-3-xuCofX {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-J7GtDM {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-J7GtDM {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-HQeWEJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 19px;
+  min-height: 215px;
+  position: relative;
+  width: 141px;
+}
+
+.storepage .rectangle-copy-4-pxsR4j {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  margin-left: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-4-pxsR4j {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-x9ai3x {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-x9ai3x {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .group-copy-2-hLxedj {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-height: 311px;
+  position: relative;
+  width: 780px;
+}
+
+.storepage .artwork-Ri4bJH {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  margin-bottom: -1px;
+  min-height: 46px;
+  min-width: 166px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-Ri4bJH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 215px;
+  justify-content: flex-start;
+  margin-top: 50px;
+  min-width: 780px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-RWeoPr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-HhI9r2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-HhI9r2 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-PYLvKf {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-PYLvKf {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-RWeoPr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-jzxXWe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-jzxXWe {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-h13cAD {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-h13cAD {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-start;
+  margin-top: 1px;
+  min-width: 135px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .x1999-oljH2y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 50px;
+  position: relative;
+  text-align: left;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x1199-oljH2y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  margin-left: 30px;
+  min-height: 23px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-4NS0Uy {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-2-yETRKQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-2-yETRKQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-PtSAh8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-PtSAh8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-hO4nU7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-3-kx57mx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-3-kx57mx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-pU1333 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-pU1333 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-rJNUj1 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 19px;
+  min-height: 215px;
+  position: relative;
+  width: 141px;
+}
+
+.storepage .rectangle-copy-4-SZOqxO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  margin-left: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-4-SZOqxO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-dgVvXU {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-dgVvXU {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .group-copy-3-hLxedj {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 76px;
+  min-height: 311px;
+  position: relative;
+  width: 780px;
+}
+
+.storepage .merchandise-HAyT8P {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  margin-bottom: -1px;
+  min-height: 46px;
+  min-width: 248px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-HAyT8P {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 215px;
+  justify-content: flex-start;
+  margin-top: 50px;
+  min-width: 780px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-TOuTBO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-SaNhPj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-SaNhPj {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-fky2x4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-fky2x4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-TOuTBO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-s0XnxT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-s0XnxT {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-h0OTyA {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-h0OTyA {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-start;
+  margin-top: 1px;
+  min-width: 135px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .x1999-nvO38Y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 50px;
+  position: relative;
+  text-align: left;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x1199-nvO38Y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  margin-left: 30px;
+  min-height: 23px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-lCnZOm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-2-jYVP4j {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-2-jYVP4j {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-814rno {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-814rno {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-AxXUkD {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 20px;
+  min-height: 215px;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .rectangle-copy-3-RvNUC0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-3-RvNUC0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-7v2Iec {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-7v2Iec {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .copy-container-8t5qPb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 19px;
+  min-height: 215px;
+  position: relative;
+  width: 141px;
+}
+
+.storepage .rectangle-copy-4-t0X439 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 155px;
+  margin-left: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+
+.storepage .group-2-copy-4-t0X439 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-height: 48px;
+  position: relative;
+  width: 139px;
+}
+
+.storepage .product-name-gxbOoK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 141px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x499-gxbOoK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .sale-badge-nNlSqb {
+  background-color: transparent;
+  height: 23px;
+  left: 382px;
+  position: absolute;
+  top: 1126px;
+  width: 48px;
+}
+
+.storepage .rectangle-tjgIXt {
+  background-color: var(--aqua-pearl);
+  border-radius: 4px;
+  box-shadow: 0px 2px 3px 1px #1818184d;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 48px;
+}
+
+.storepage .sale-tjgIXt {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .sale-badge-eZ1OCR {
+  background-color: transparent;
+  height: 23px;
+  left: 382px;
+  position: absolute;
+  top: 740px;
+  width: 48px;
+}
+
+.storepage .rectangle-yxETVo {
+  background-color: var(--aqua-pearl);
+  border-radius: 4px;
+  box-shadow: 0px 2px 3px 1px #1818184d;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 48px;
+}
+
+.storepage .sale-yxETVo {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .sale-badge-zsrpF8 {
+  background-color: transparent;
+  height: 23px;
+  left: 382px;
+  position: absolute;
+  top: 353px;
+  width: 48px;
+}
+
+.storepage .rectangle-RPuyHT {
+  background-color: var(--aqua-pearl);
+  border-radius: 4px;
+  box-shadow: 0px 2px 3px 1px #1818184d;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 48px;
+}
+
+.storepage .sale-RPuyHT {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .store_-nav_-bar-nNlSqb {
+  align-items: flex-end;
+  background-color: var(--electric-violet);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1024px;
+  padding: 14px 227px;
+  position: absolute;
+  top: 146px;
+  width: auto;
+}
+
+.storepage .group-4-xiu56m {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 21px;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-width: 570px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .all-T2qfJ1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 22px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .books-T2qfJ1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 78px;
+  min-height: 21px;
+  min-width: 46px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .artwork-T2qfJ1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 78px;
+  min-height: 21px;
+  min-width: 61px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .merchandise-T2qfJ1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 78px;
+  min-height: 21px;
+  min-width: 97px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .sale-T2qfJ1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 78px;
+  min-height: 21px;
+  min-width: 34px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .browse-more-nNlSqb {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 674px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .browse-more-copy-nNlSqb {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 306px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1060px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .browse-more-copy-2-nNlSqb {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 388px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1448px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .sale-badge-61bEOy {
+  background-color: transparent;
+  height: 23px;
+  left: 381px;
+  position: absolute;
+  top: 1513px;
+  width: 48px;
+}
+
+.storepage .rectangle-6Pd4lD {
+  background-color: var(--aqua-pearl);
+  border-radius: 4px;
+  box-shadow: 0px 2px 3px 1px #1818184d;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 48px;
+}
+
+.storepage .sale-6Pd4lD {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .nav-links-nNlSqb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 26px;
+  justify-content: flex-start;
+  left: 498px;
+  min-width: 489px;
+  position: absolute;
+  top: 66px;
+  width: auto;
+}
+
+.storepage .state-neutral-6XoEeJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  min-width: 69px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .text-317lWg {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 72px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .state-neutral-copy-6XoEeJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 52px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .text-CUW6a2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 55px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .state-neutral-copy-2-6XoEeJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 63px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .text-9NkCU1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 66px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .state-neutral-copy-3-6XoEeJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 130px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .text-aRKnzK {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 133px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .state-neutral-copy-4-6XoEeJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 71px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .text-1n3yhh {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 74px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .footer-iEG1w8 {
+  align-items: flex-end;
+  background-color: var(--oxford-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-height: 381px;
+  padding: 22px 33px;
+  position: relative;
+  width: 1024px;
+}
+
+.storepage .flex-row-n3fhHe {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 113px;
+  justify-content: flex-start;
+  margin-top: 21px;
+  min-width: 929px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .purple-copy-Nct1Bx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 73px;
+  position: relative;
+  width: 165px;
+}
+
+.storepage .flex-col-Nct1Bx {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 62px;
+  min-height: 101px;
+  position: relative;
+  width: 702px;
+}
+
+.storepage .flex-row-qnNcd1 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  min-width: 693px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .home-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 62px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.storepage .read-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 59px;
+  min-height: 24px;
+  min-width: 53px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.storepage .lore-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 60px;
+  min-height: 24px;
+  min-width: 46px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.storepage .store-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 64px;
+  min-height: 24px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.storepage .community-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 56px;
+  min-height: 24px;
+  min-width: 116px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.storepage .about-bkBnOj {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 59px;
+  min-height: 24px;
+  min-width: 63px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.storepage .flex-row-guwQjD {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 63px;
+  justify-content: flex-start;
+  margin-top: 14px;
+  min-width: 484px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-Rte393 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 63px;
+  position: relative;
+  width: 81px;
+}
+
+.storepage .characters-gsnfMd {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 81px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .settings-gsnfMd {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-right: 1.0px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-col-cdJ3HH {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 45px;
+  min-height: 63px;
+  position: relative;
+  width: 58px;
+}
+
+.storepage .books-npTAHf {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 44px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .artwork-npTAHf {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-col-7GJVYK {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 83px;
+  min-height: 63px;
+  position: relative;
+  width: 58px;
+}
+
+.storepage .fan-art-vzuSxF {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 57px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .patreon-vzuSxF {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-col-RvaH3X {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 78px;
+  min-height: 63px;
+  position: relative;
+  width: 81px;
+}
+
+.storepage .contact-us-7wLAoH {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 81px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.storepage .creator-7wLAoH {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 3.0px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-col-n3fhHe {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 192px;
+  position: relative;
+  width: 942px;
+}
+
+.storepage .flex-row-MoxtUb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 72px;
+  justify-content: flex-start;
+  min-width: 933px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .flex-col-YDzXGO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 72px;
+  position: relative;
+  width: 382px;
+}
+
+.storepage .join-my-newsletter-t-kitkxg {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  min-height: 28px;
+  min-width: 282px;
+  position: relative;
+  text-align: left;
+  width: 282px;
+}
+
+.storepage .group-container-kitkxg {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  margin-top: 15px;
+  min-width: 382px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .overlap-group3-IAZxxx {
+  align-items: center;
+  background-color: var(--gallery);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  min-width: 282px;
+  padding: 0 9px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .email-address-X0hkSy {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 0px;
+  min-height: 19px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .group-IAZxxx {
+  align-items: center;
+  background-color: var(--jaffa);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-end;
+  margin-left: 15px;
+  min-width: 85px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .subscribe-vgTRgO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  min-height: 15px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .gallery-YDzXGO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 94px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .merchadise-YDzXGO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  margin-left: 44px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 84px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .blog-YDzXGO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 81px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 35px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .faq-YDzXGO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 109px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 46px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .flex-row-Utxfei {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-right: 2px;
+  margin-top: 70px;
+  min-width: 59px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .facebook-K0nzO3 {
+  background-color: transparent;
+  background-image: url(../img/about-page-1-path-2DD1F344-A1B4-44E6-8815-ED925D0BDD11@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 19px;
+  position: relative;
+  width: 19px;
+}
+
+.storepage .instagram-K0nzO3 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/gallery-page--shape-731379D7-6D31-434C-AA03-3EEC16C014B7@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  min-width: 20px;
+  padding: 4px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .shape-MQMcnD {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.storepage .oval-MQMcnD {
+  background-color: var(--white);
+  border-radius: 1px;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 0px;
+  position: relative;
+  width: 1px;
+}
+
+.storepage .flex-row-YqqMur {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 942px;
+  position: relative;
+  width: auto;
+}
+
+.storepage .terms-conditions-A3oj9s {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 124px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .privacy-policy-A3oj9s {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 36px;
+  min-height: 19px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.storepage .x2021-olga-andreyev-A3oj9s {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 395px;
+  min-height: 19px;
+  min-width: 297px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}

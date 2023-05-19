@@ -1,0 +1,1347 @@
+/* screen - gallerypage */
+
+.gallerypage {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2610px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.gallerypage .overlap-group1-pX9ctx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2229px;
+  position: relative;
+  width: 1024px;
+}
+
+.gallerypage .background-1Kw87T {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/comic-page-rectangle-302DB920-9149-487E-B2AE-1B5175EE0C87.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 2229px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1024px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.gallerypage .rectangle-AfYJKw {
+  background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2229px;
+  position: relative;
+  width: 1024px;
+}
+
+.gallerypage .logo-copy-5-1Kw87T {
+  background-color: transparent;
+  background-image: url(../img/comic-page-purple-CAD86BD1-7435-4D49-A8E3-5CF3B40AC12D@2x.png);
+  background-size: 100% 100%;
+  height: 108px;
+  left: 42px;
+  position: absolute;
+  top: 32px;
+  width: 244px;
+}
+
+.gallerypage .rectangle-1Kw87T {
+  background-color: var(--pearl-bush);
+  height: 2083px;
+  left: 42px;
+  position: absolute;
+  top: 146px;
+  width: 940px;
+}
+
+.gallerypage .rectangle-copy-15-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 764px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-14-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-13-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-12-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-11-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 645px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-10-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 764px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-9-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-8-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-7-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-6-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-5-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 764px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-4-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-2-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-copy-1Kw87T {
+  background-color: transparent;
+  height: 160px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 158px;
+}
+
+.gallerypage .rectangle-zszBmd {
+  background-color: transparent;
+  height: 160px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 158px;
+}
+
+.gallerypage .official-art-1Kw87T {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 408px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .rectangle-copy-23-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 831px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-22-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 734px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-21-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 637px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-20-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-19-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-18-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 831px;
+  object-fit: cover;
+  position: absolute;
+  top: 1011px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-17-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 734px;
+  object-fit: cover;
+  position: absolute;
+  top: 1011px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-16-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 637px;
+  object-fit: cover;
+  position: absolute;
+  top: 1011px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-copy-3-1Kw87T {
+  background-color: transparent;
+  height: 125px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 1011px;
+  width: 92px;
+}
+
+.gallerypage .rectangle-iG8jZ7 {
+  background-color: transparent;
+  height: 125px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 1011px;
+  width: 92px;
+}
+
+.gallerypage .behind-the-scenes-1Kw87T {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 340px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  top: 907px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .miscellaneous-1Kw87T {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 371px;
+  letter-spacing: 0.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  top: 1364px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .rectangle-JrxAEx {
+  background-color: transparent;
+  height: 289px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1455px;
+  width: 239px;
+}
+
+.gallerypage .rectangle-copy-27-1Kw87T {
+  background-color: transparent;
+  height: 289px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 1788px;
+  width: 239px;
+}
+
+.gallerypage .rectangle-copy-24-1Kw87T {
+  background-color: transparent;
+  height: 154px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 1455px;
+  width: 249px;
+}
+
+.gallerypage .rectangle-copy-30-1Kw87T {
+  background-color: transparent;
+  height: 119px;
+  left: 388px;
+  object-fit: cover;
+  position: absolute;
+  top: 1991px;
+  width: 249px;
+}
+
+.gallerypage .rectangle-copy-25-1Kw87T {
+  background-color: transparent;
+  height: 316px;
+  left: 387px;
+  object-fit: cover;
+  position: absolute;
+  top: 1642px;
+  width: 249px;
+}
+
+.gallerypage .rectangle-copy-26-1Kw87T {
+  background-color: transparent;
+  height: 237px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 1455px;
+  width: 249px;
+}
+
+.gallerypage .rectangle-copy-28-1Kw87T {
+  background-color: transparent;
+  height: 237px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 1713px;
+  width: 249px;
+}
+
+.gallerypage .rectangle-copy-29-1Kw87T {
+  background-color: transparent;
+  height: 127px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 1983px;
+  width: 251px;
+}
+
+.gallerypage .some-of-many-of-the-1Kw87T {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1051px;
+  width: 320px;
+}
+
+.gallerypage .show-more-1Kw87T {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 466px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 835px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .show-more-copy-1Kw87T {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 466px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2140px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .nav-links-1Kw87T {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 26px;
+  justify-content: flex-start;
+  left: 493px;
+  min-width: 489px;
+  position: absolute;
+  top: 66px;
+  width: auto;
+}
+
+.gallerypage .state-neutral-XVWTsl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  min-width: 69px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .text-id4CDw {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 72px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .state-neutral-copy-XVWTsl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 52px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .text-YToAGy {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 55px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .state-neutral-copy-2-XVWTsl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 63px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .text-Zr8yaZ {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 66px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .state-neutral-copy-3-XVWTsl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 130px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .text-x40F6w {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 133px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .state-neutral-copy-4-XVWTsl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 71px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .text-5ylQSG {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 1.00px;
+  line-height: 27px;
+  min-height: 26px;
+  min-width: 74px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .footer-pX9ctx {
+  align-items: flex-end;
+  background-color: var(--oxford-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 1px;
+  margin-top: 0px;
+  min-height: 381px;
+  padding: 22px 33px;
+  position: relative;
+  width: 1024px;
+}
+
+.gallerypage .flex-row-9xe3C2 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 113px;
+  justify-content: flex-start;
+  margin-top: 21px;
+  min-width: 929px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .purple-copy-CgHWgD {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 73px;
+  position: relative;
+  width: 165px;
+}
+
+.gallerypage .flex-col-CgHWgD {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 62px;
+  min-height: 101px;
+  position: relative;
+  width: 702px;
+}
+
+.gallerypage .flex-row-SoMLVZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 24px;
+  justify-content: flex-start;
+  min-width: 693px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .home-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 62px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.gallerypage .read-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 59px;
+  min-height: 24px;
+  min-width: 53px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.gallerypage .lore-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 60px;
+  min-height: 24px;
+  min-width: 46px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.gallerypage .store-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 64px;
+  min-height: 24px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.gallerypage .community-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 56px;
+  min-height: 24px;
+  min-width: 116px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.gallerypage .about-DHcvQe {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-left: 59px;
+  min-height: 24px;
+  min-width: 63px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.gallerypage .flex-row-UYD5SM {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 63px;
+  justify-content: flex-start;
+  margin-top: 14px;
+  min-width: 484px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .flex-col-pfxWDq {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 63px;
+  position: relative;
+  width: 81px;
+}
+
+.gallerypage .characters-k82xz9 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 81px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .settings-k82xz9 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-right: 1.0px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .flex-col-g64OW6 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 45px;
+  min-height: 63px;
+  position: relative;
+  width: 58px;
+}
+
+.gallerypage .books-S7PzyE {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 44px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .artwork-S7PzyE {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .flex-col-uZyXBZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 83px;
+  min-height: 63px;
+  position: relative;
+  width: 58px;
+}
+
+.gallerypage .fan-art-lvxHhx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 57px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .patreon-lvxHhx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .flex-col-hMMFUJ {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 78px;
+  min-height: 63px;
+  position: relative;
+  width: 81px;
+}
+
+.gallerypage .contact-us-demmo0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  min-height: 21px;
+  min-width: 81px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.gallerypage .creator-demmo0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 3.0px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .flex-col-9xe3C2 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 192px;
+  position: relative;
+  width: 942px;
+}
+
+.gallerypage .flex-row-rBVwyf {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 72px;
+  justify-content: flex-start;
+  min-width: 933px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .flex-col-i5PJIx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 72px;
+  position: relative;
+  width: 382px;
+}
+
+.gallerypage .join-my-newsletter-t-gOwXsQ {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  min-height: 28px;
+  min-width: 282px;
+  position: relative;
+  text-align: left;
+  width: 282px;
+}
+
+.gallerypage .group-container-gOwXsQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  margin-top: 15px;
+  min-width: 382px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .overlap-group-5A7zFM {
+  align-items: center;
+  background-color: var(--gallery);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-start;
+  min-width: 282px;
+  padding: 0 9px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .email-address-EBuJOd {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 0px;
+  min-height: 19px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .group-5A7zFM {
+  align-items: center;
+  background-color: var(--jaffa);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 29px;
+  justify-content: flex-end;
+  margin-left: 15px;
+  min-width: 85px;
+  padding: 0 14px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .subscribe-5zgCxI {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  min-height: 15px;
+  min-width: 55px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .gallery-i5PJIx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 94px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 58px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .merchadise-i5PJIx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: -0.40px;
+  line-height: 21px;
+  margin-left: 44px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 84px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .blog-i5PJIx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 81px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 35px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .faq-i5PJIx {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-left: 109px;
+  margin-top: 10px;
+  min-height: 21px;
+  min-width: 46px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .flex-row-9qlcvn {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-right: 2px;
+  margin-top: 70px;
+  min-width: 59px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .facebook-5izBw5 {
+  background-color: transparent;
+  background-image: url(../img/about-page-1-path-2DD1F344-A1B4-44E6-8815-ED925D0BDD11@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 19px;
+  position: relative;
+  width: 19px;
+}
+
+.gallerypage .instagram-5izBw5 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/gallery-page--shape-731379D7-6D31-434C-AA03-3EEC16C014B7@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  min-width: 20px;
+  padding: 4px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .shape-k31CXz {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.gallerypage .oval-k31CXz {
+  background-color: var(--white);
+  border-radius: 1px;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 0px;
+  position: relative;
+  width: 1px;
+}
+
+.gallerypage .flex-row-xCnJtx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 942px;
+  position: relative;
+  width: auto;
+}
+
+.gallerypage .terms-conditions-brk4Ru {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 124px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .privacy-policy-brk4Ru {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 36px;
+  min-height: 19px;
+  min-width: 90px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gallerypage .x2021-olga-andreyev-brk4Ru {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 395px;
+  min-height: 19px;
+  min-width: 297px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}

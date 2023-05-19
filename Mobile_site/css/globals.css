@@ -1,0 +1,50 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/5f2c279e59d3acc6e28f29ad.5f2c27e6eafa46847dabdbb6.bduCm0e.hcp.png");
+
+@font-face {
+  font-family: "FuturaHandwritten";
+  font-weight: 1 1000;
+  src: url("fonts/FuturaHandwritten.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FuturaStd-Book";
+  font-weight: 400;
+  src: url("fonts/FuturaStd-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: "FuturaNowHeadline-Bd";
+  font-weight: 1 1000;
+  src: url("fonts/FuturaNowHeadline-Bd.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+@media (max-width: 515px) {
+  .valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
