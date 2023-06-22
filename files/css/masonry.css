@@ -4,7 +4,7 @@ body {
   color: #465665;
 }
 
-a {
+a.head-nav {
   color: #5b7083;
   transition: all .25s ease-in-out;
 }
@@ -38,11 +38,11 @@ a {
   margin-bottom: 1.75em;
 }
 
-.intro a {
+.intro a.head-nav{
   opacity: .7;
 }
 
-.intro a:hover {
+.intro a.head-nav:hover {
   opacity: 1;
 }
 
@@ -70,44 +70,6 @@ a {
   margin-bottom: 30px;
   display: inline-block; /* Fix the misalignment of items */
   vertical-align: top; /* Keep the item on the very top */
-}
-
-/* Masonry image effects */
-.masonry .brick img {
-  transition: all .5s ease-in-out;
-  backface-visibility: hidden; /* Remove Image flickering on hover */
-}
-
-.masonry .brick:hover img {
-  opacity: .75;
-}
-
-/* Bordered masonry */
-.masonry.bordered {
-  column-rule: 1px solid #eee;
-  column-gap: 50px;
-}
-
-.masonry.bordered .brick {
-  padding-bottom: 25px;
-  margin-bottom: 25px;
-  border-bottom: 1px solid #eee;
-}
-
-/* Gutterless masonry */
-.masonry.gutterless {
-  column-gap: 0;
-}
-
-.masonry.gutterless .brick {
-  margin-bottom: 0;
-}
-
-/* Masonry on tablets */
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-  .masonry {
-    column-count: 2;
-  }
 }
 
 /* Masonry on big screens */

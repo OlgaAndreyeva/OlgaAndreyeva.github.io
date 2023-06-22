@@ -6,10 +6,14 @@
   <title>Olga Andreyeva Art Portfolio</title>
   <link rel="stylesheet" href="files/css/labs.css">
   <link rel="stylesheet" href="files/css/masonry.css">
+  <link rel="stylesheet" href="spotlight.min.css">
+  
+	<script src="spotlight.min.js"></script>
+	
 </head>
 <body class="labs-template-default single single-labs postid-2409 logged-in admin-bar no-customize-support">
 <div class="container">
-<!--
+<!--  Top Nav
  <nav class="cf lab-nav lab-nav--light">
     <a href="http://w3bits.com/css-masonry/" title="Back to the article" class="lab-article-link">&#171; Article</a>
     <ul class="lab-share">
@@ -23,17 +27,21 @@
     <h1 class="title">Olga Andreyeva</h1>
     <h2 class="desc">Illustration / Technical Art / Comics</h2>
     <div class="intro">
-      <h3 title="Masonry with Gutter">Portfolio</h3>
+      <h3 class="head-nav" title="Portfolio">Portfolio</h3>
      <!-- <h3><a href="masonry-bordered.html" title="Bordered Masonry">Bordered</a></h3>
       <h3><a href="masonry-gutterless.html" title="Gutterless masonry">Gutterless</a></h3>
     </div><!-- .intro -->
 	  
     <div class="masonry">
       <div class="brick">
-        <img src="files/images/Lake Street.jpg" alt="Lake Street" title="Lake Street">
-      </div>
+        <a class="spotlight" href="files/images/Lake Street.jpg">
+		  <img src="files/images/Lake Street.jpg" alt="Lake Street" title="Lake Street">
+		</a>
+	  </div>
       <div class="brick">
-        <img src="files/images/Rest in Ruins.jpg" alt="Rest in Ruins" title="Rest in Ruins">
+        <a class="spotlight" href="files/images/Rest in Ruins.jpg">
+		  <img src="files/images/Rest in Ruins.jpg" alt="Rest in Ruins" title="Rest in Ruins">
+		</a>
       </div>
       <div class="brick">
         <img src="files/images/South Station.jpg" alt="South Station" title="South Station">
@@ -56,8 +64,13 @@
       <div class="brick">
         <img src="files/images/Chapter 3 Cover.jpg" alt="Xantara Chapter 3 Cover" title="Xantara Chapter 3 Cover">
       </div>
-    </div><!-- .masonry -->
+	</div>
+	<!-- .masonry -->
+<!-- Button
     <a href="http://w3bits.com/css-masonry/" class="lab-article-button" title="Learn more about this demo, read the tutorial">Read the Article &#187;</a>
+-->
+
+  </div>
   </div>
 </div>
 </body>
