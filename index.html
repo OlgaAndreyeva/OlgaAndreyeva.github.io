@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+	
   <title>Olga Andreyeva Art Portfolio</title>
+	
   <link rel="stylesheet" href="files/css/labs.css">
   <link rel="stylesheet" href="files/css/masonry.css">
-  <link rel="stylesheet" href="spotlight.min.css">
-  
-	<script src="spotlight.min.js"></script>
+	
+	<link rel="stylesheet" href="files/css/glightbox.css" />
 	
 </head>
 <body class="labs-template-default single single-labs postid-2409 logged-in admin-bar no-customize-support">
@@ -28,50 +29,80 @@
     <h2 class="desc">Illustration / Technical Art / Comics</h2>
     <div class="intro">
       <h3 class="head-nav" title="Portfolio">Portfolio</h3>
-     <!-- <h3><a href="masonry-bordered.html" title="Bordered Masonry">Bordered</a></h3>
-      <h3><a href="masonry-gutterless.html" title="Gutterless masonry">Gutterless</a></h3>
-    </div><!-- .intro -->
+     <!-- 
+	  <h3><a href="masonry-bordered.html" title="Bordered Masonry">Bordered</a></h3>
+     -->
+	  </div>  
+	  
+	  
+	  <!-- .masonry -->
 	  
     <div class="masonry">
       <div class="brick">
-        <a class="spotlight" href="files/images/Lake Street.jpg">
-		  <img src="files/images/Lake Street.jpg" alt="Lake Street" title="Lake Street">
-		</a>
+          <a href="files/images/Lake Street.jpg" class="glightbox" data-glightbox="title: Lake Street; description:  ;">
+               <img src="files/images/Lake Street.jpg" alt="Lake Street" title="Rest in Ruins" />
+          </a>
 	  </div>
       <div class="brick">
-        <a class="spotlight" href="files/images/Rest in Ruins.jpg">
-		  <img src="files/images/Rest in Ruins.jpg" alt="Rest in Ruins" title="Rest in Ruins">
-		</a>
+		  <a href="files/images/Rest in Ruins.jpg" class="glightbox" data-glightbox="title: Rest in Ruins; description:  ;">
+			  <img src="files/images/Rest in Ruins.jpg" alt="Rest in Ruins" title="Rest in Ruins">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/South Station.jpg" alt="South Station" title="South Station">
+		  <a href="files/images/South Station.jpg" class="glightbox" data-glightbox="title: South Station; description:  ;">
+			  <img src="files/images/South Station.jpg" alt="South Station" title="South Station">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Travelling by Night.jpg" alt="Travelling by Night" title="Travelling by Night">
+		   <a href="files/images/Travelling by Night.jpg" class="glightbox" data-glightbox="title: Travelling by Night; description:  ;">
+			   <img src="files/images/Travelling by Night.jpg" alt="Travelling by Night" title="Travelling by Night">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Overworld.jpg" alt="Overworld" title="Overworld">
+		  <a href="files/images/Overworld.jpg" class="glightbox" data-glightbox="title: Overworld; description:  ;">
+			  <img src="files/images/Overworld.jpg" alt="Overworld" title="Overworld">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Relic.jpg" alt="Relic" title="Relic">
+		  <a href="files/images/Relic.jpg" class="glightbox" data-glightbox="title: Relic; description:  ;">
+			  <img src="files/images/Relic.jpg" alt="Relic" title="Relic">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Skögul.jpg" alt="Skögul" title="Skögul">
+		  <a href="files/images/Skögul.jpg" class="glightbox" data-glightbox="title: Skögul; description:  ;">
+			  <img src="files/images/Skögul.jpg" alt="Skögul" title="Skögul">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Broad Way.jpg" alt="Broad Way" title="Broad Way">
+		  <a href="files/images/Broad Way.jpg" class="glightbox" data-glightbox="title: Broad Way; description:  ;">
+			  <img src="files/images/Broad Way.jpg" alt="Broad Way" title="Broad Way">
+		  </a>
       </div>
       <div class="brick">
-        <img src="files/images/Chapter 3 Cover.jpg" alt="Xantara Chapter 3 Cover" title="Xantara Chapter 3 Cover">
+		  <a href="files/images/Chapter 3 Cover.jpg" class="glightbox" data-glightbox="title: Chapter 3 Cover; description:  ;">
+			  <img src="files/images/Chapter 3 Cover.jpg" alt="Xantara Chapter 3 Cover" title="Xantara Chapter 3 Cover">
+		  </a>
       </div>
 	</div>
-	<!-- .masonry -->
+	
 <!-- Button
     <a href="http://w3bits.com/css-masonry/" class="lab-article-button" title="Learn more about this demo, read the tutorial">Read the Article &#187;</a>
 -->
 
   </div>
   </div>
-</div>
+	
+	<script src="files/js/glightbox.js"></script>
+	
+	<script type="text/javascript">
+		const lightbox = GLightbox({    
+			touchNavigation: true,
+			loop: true,
+		});
+		var lightboxDescription = GLightbox({
+           selector: '.glightbox'
+        });
+	</script>
+	
 </body>
 </html>
