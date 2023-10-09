@@ -1,7 +1,7 @@
 /**
  * RESET
  * Reference: http://meyerweb.com/eric/tools/css/reset/
- */
+ **/
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -31,7 +31,7 @@ footer, header, hgroup, main, menu, nav, section {
 
 body {
   line-height: 1.618;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 
 ol, ul {
@@ -84,7 +84,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 h3 {
@@ -95,9 +95,16 @@ h4 {
   font-size: 1em;
 }
 
+
+
 /**
  * BOX HACKING
  */
+
+img, video {
+  max-width: 100%;
+  vertical-align: middle;
+}
 
 html {
   box-sizing: border-box;
